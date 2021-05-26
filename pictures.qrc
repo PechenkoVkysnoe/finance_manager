@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/pict">
+        <file>img/cal.png</file>
+        <file>img/fin.jpg</file>
+        <file>img/3.svg</file>
+        <file>img/1.svg</file>
+        <file>img/2.svg</file>
+        <file>img/4.svg</file>
+        <file>img/clothes.svg</file>
+        <file>img/food.svg</file>
+        <file>img/freetime.svg</file>
+        <file>img/health.svg</file>
+        <file>img/other.svg</file>
+        <file>img/present.svg</file>
+        <file>img/telephone.svg</file>
+        <file>img/transport.svg</file>
+        <file>img/categories.svg</file>
+        <file>img/icons8-bank-building-64.png</file>
+    </qresource>
+</RCC>
